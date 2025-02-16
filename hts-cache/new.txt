@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:10:21	797/797	---M--	404	error ('Not%20Found')	text/html	etag:%2231d-62dce3b678cfc%22	http://212.227.28.174/robots.txt		(from )
+15:10:22	1060/1060	---M--	200	added ('OK')	text/html	etag:%22424-62dce03d88455%22	http://212.227.28.174/	C:/My%20Web%20Sites/PUBGLitething/212.227.28.174/index.html	(from )
+15:10:22	1409/1409	---M--	200	added ('OK')	text/css	etag:%22581-62dce4b141044%22	http://212.227.28.174/css/styles2.css	C:/My%20Web%20Sites/PUBGLitething/212.227.28.174/css/styles2.css	(from http://212.227.28.174/)
+15:10:22	20513/20513	---M--	200	added ('OK')	text/javascript	etag:%225021-62dce03ef4054%22	http://212.227.28.174/js/script.js	C:/My%20Web%20Sites/PUBGLitething/212.227.28.174/js/script.js	(from http://212.227.28.174/)
+15:10:22	2584/2584	---M--	200	added ('OK')	text/javascript	etag:%22a18-62dce03ee4bf6%22	http://212.227.28.174/js/script2.js	C:/My%20Web%20Sites/PUBGLitething/212.227.28.174/js/script2.js	(from http://212.227.28.174/)
+15:10:28	144852/144852	---M--	200	added ('OK')	font/ttf	etag:%22235d4-62dce03e3bc41%22	http://212.227.28.174/font/RobotoCondensed-Regular.ttf	C:/My%20Web%20Sites/PUBGLitething/212.227.28.174/font/RobotoCondensed-Regular.ttf	(from http://212.227.28.174/css/styles2.css)
